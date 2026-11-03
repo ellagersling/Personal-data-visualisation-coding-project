@@ -42,4 +42,4 @@ Personal sleep data gathered and recorded to visualise emotional fluctuations th
 
 **Usage**
 
-##Usage 
+## usage
